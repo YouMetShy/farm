@@ -1,0 +1,10 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.iconSize {
+  font-size: .65em;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+}
